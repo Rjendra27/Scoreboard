@@ -1,0 +1,42 @@
+
+body {
+    margin: 0;
+    background-image: url(bg.jpg);
+    background: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#home{
+    font-size: xx-large;
+    font-family:"Archivo Black", sans-serif;
+    color: rgb(25, 0, 255);
+    margin-left: 40px;
+}
+
+.num {
+    font-size:50px;
+    background-color: rgb(31, 141, 220);
+    padding-left: 50px;
+    color: rgb(255, 255, 255);
+    font-family: "Orbitron", sans-serif;
+    margin-left: 30px;
+}
+#home-btn{
+    padding-left: 10px;
+    margin: 5 5 ;
+
+}
+
+#home-btn{
+    border-radius: 8px;
+    border: 2px solid #04AA6D;
+    background-color: white;
+    background: none;
+    color: white;
+    font-size: x-large;
+}
+
